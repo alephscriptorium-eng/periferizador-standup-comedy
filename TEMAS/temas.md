@@ -1,0 +1,1 @@
+- Crisis geopolítica en el estrecho de Gibraltar (julio/agosto 2026) en la relación que toman eventos en otros puntos calientes de la logística marítima global.
