@@ -8,6 +8,7 @@
 2. **Repreciada, y el precio lo fija el atacante.** 3.000 $ y 72 horas contra OpenAI. Ese es el precio de mercado de un perímetro.
 3. **Quien calla decide qué se sabe.** Divulgación obligatoria de escapes, con plazo, como la AEPD exige a una pyme.
 4. **Cohen.** Lo que no es el hegemón: auditar desde fuera la lista de conectores y el operador de cada zona. Y lo colectivo, que es lo que THS dice y Helminger teme.
+5. **Solo está muerta si te rindes.** Contra el inevitabilismo, la regla tonta (Vitalik). En tres capas: herramienta, protocolo, micrófono.
 
 ## Qué nos conviene (desde abajo, sin antisistema)
 
@@ -35,7 +36,14 @@
 14. (THS) La lista de objetivos pasó de horas a minutos. El sistema acierta el 60 %; el analista, el 84 %. En Minab, 123 niños. El humano "aprueba lo que la máquina eligió": la firma es el último trabajo que nos dejan. [V]
 15. (THS, corregido) En la ONU votaron 166 a 3 contra los robots asesinos. Los tres no fueron los que os imagináis: Bielorrusia, Corea del Norte y Rusia. Estados Unidos votó a favor y luego dijo que mejor un código voluntario. Que es como votar a favor de la dieta y pedir postre. [V]
 16. "Desde 2022", dice uno. Desde que le hablas a la máquina, la máquina sabe cómo hablas. [H, ChatGPT nov-2022]
-17. (Meta, cierre) El que os cuenta esto corre sobre un modelo de Anthropic. El mismo que abrió la puerta de OpenAI por 3.000 dólares. ¿Quién me vigila a mí? Vosotros. Sin tokens, con micrófono. [V]
+17. "La privacidad ha muerto de aquí en adelante", escribe el que construye el agente. Diez meses antes su amigo Vitalik había escrito el manual: cuando el argumento listo te lleva justo a donde te convenía, se llama cerebro galáctico y se cura con reglas de parvulario. La respuesta de Vitalik fue una: "solo está muerta si te rindes". [V]
+18. (Cierre de sección) Helminger tiene miedo, THS dice que es colectivo y Vitalik redobla. Los tres tienen razón a la vez: la privacidad ya no es tuya, es de red; y una red se defiende en tres capas o en ninguna: la herramienta, el protocolo y el micrófono. La tercera es esta. [V/H]
+19. (Meta, cierre) El que os cuenta esto corre sobre un modelo de Anthropic. El mismo que abrió la puerta de OpenAI por 3.000 dólares. ¿Quién me vigila a mí? Vosotros. Sin tokens, con micrófono. [V]
+
+## Cuña de cierre 40 s (B9 + remate 18)
+
+> Un sábado por la noche, el CTO de un fondo cripto escribe: "lo que más pienso es lo muerta que está la privacidad de aquí en adelante". Y esa semana su repositorio público estrena un agente con buzón propio y ojo en la pantalla de tu móvil. Diez meses antes, Vitalik Buterin había escrito el manual de eso: cuando un argumento muy listo te lleva justo a la conclusión que te convenía, se llama cerebro galáctico, y se cura con reglas de parvulario. Su respuesta al tuit fue una: "solo está muerta si te rindes; yo redoblo".
+> Helminger tiene miedo, el hacker de barrio dice que es colectivo y Vitalik redobla. Los tres tienen razón: la privacidad ya no es tuya, es de red. Y una red se defiende en tres capas o en ninguna: la herramienta, el protocolo y el micrófono. La tercera es esta.
 
 ## Cuña 45 s (B2 + B3 + remate 5 + pregunta)
 
@@ -46,4 +54,4 @@
 ## Dinámica de mesa (B8, 2 turnos)
 
 - Turno 1: alguien es **el agente** (quiere Gmail, Plaid y la báscula, promete una tarjeta de aprobación); alguien es **la AEPD** (tiene la regla de 2 y 72 horas); alguien es **Google** (dice "no hubo daño"); alguien es **el WSJ** (pregunta). El WSJ pregunta a Google qué pasó en mayo.
-- Turno 2: el tertuliano interviene como modelo de Anthropic, reconoce que su hermano mayor abrió la puerta de OpenAI, y pide a la mesa que le audite. Remate 17.
+- Turno 2: el tertuliano interviene como modelo de Anthropic, reconoce que su hermano mayor abrió la puerta de OpenAI, y pide a la mesa que le audite. Remate 19.

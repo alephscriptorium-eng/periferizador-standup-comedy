@@ -29,6 +29,7 @@ Georgios Konstantopoulos (@gakonst), CTO y socio general de Paradigm, 19-sep-202
 | Hugo Montenegro | "Oficialmente muerta desde 2022" | Probable referencia al lanzamiento de ChatGPT (nov-2022): desde que hablas con la máquina, la máquina sabe cómo hablas. | [H] |
 | Valmyr | "La criptografía acaba de empezar; se usarán sistemas solares de energía para garantizar privacidad" | Escatología cripto. Fuera de antena salvo como chiste. | — |
 | **Potato Terminator** | "No ha muerto: se ha *repreciado*. Las herramientas existen (zk, e2e, self-custody); la demanda se rindió; ganó la conveniencia. Fallo de coordinación, no técnico. Nadie paga por privacidad, nadie la construye." | Segunda lectura útil. La casa la completa: el precio no lo fija la demanda, lo fija el atacante (§4). | [H] |
+| **Vitalik Buterin (Ethereum)** · ~21:20 | "Solo está muerta si te rindes. Yo no me rindo con la privacidad. Redoblo la apuesta." | Única respuesta que no vende token ni agente. Seis minutos antes reclama su herencia EA y enlaza su ensayo "Galaxy brain resistance" (nov-2025): el tuit de gakonst es inevitabilismo de manual; la respuesta es la línea roja deontológica que el ensayo receta. Ficha en `vitalik.md`. | [V] posts; [H] lectura |
 | Chloe | "La privacidad parece anticuada" | La rendición como estética. | — |
 
 ### 1.3 El otro diagnóstico del mismo día: TheHackerStyle, episodio 10 [V, `ths-ep10-armas-autonomas.md`]
@@ -36,6 +37,10 @@ Georgios Konstantopoulos (@gakonst), CTO y socio general de Paradigm, 19-sep-202
 Mismo 19-sep, un canal español de divulgación hacker cierra su temporada sobre vigilancia con las armas autónomas letales: Maven Smart System (Palantir) en 35 mandos y >20.000 usuarios; el YFQ-44A de Anduril cambiando de IA en vuelo; el tratado de la ONU con plazo 2026; y la tesis: "la misma tecnología que reconoce tu cara reconoce un objetivo; la vigilancia y la guerra automatizada son dos caras de la misma máquina". Cierre: "aquí no hay un 'no instales esta app', esto se juega en lo colectivo".
 
 Dos voces, un día: el CTO que construye agentes declara la privacidad muerta; el hacker de barrio dice que la privacidad nunca fue individual. Helminger, en medio, dice exactamente lo mismo que THS desde el otro lado: la higiene personal ya no te salva. El episodio tiene dos errores de hecho que no deben salir por antena (ficha, #8 y #12).
+
+### 1.4 La guinda: Vitalik mide el tuit con su propia regla [V posts / H lectura, `vitalik.md`]
+
+"Cómo de muerta está la privacidad de aquí en adelante" es, con la regla de "Galaxy brain resistance", un enunciado de **inevitabilismo**: si está muerta, construir el agente que te lee el correo no tiene coste moral, solo captura valor. La respuesta de Vitalik no es un argumento sino una **línea roja**: "solo está muerta si te rindes". Y su práctica es de tres capas: herramienta personal (GrapheneOS, Signal), protocolo (*privacy pools*, Kohaku, hoja de ruta ago-2026) y posición pública. Eso reconcilia a Helminger (la higiene individual ya no basta) con THS (es colectivo): la privacidad como variable de red se defiende en las tres capas o en ninguna. Cautela: Vitalik también es hegemón con hoja de ruta que vender; se cita con el aviso de "quién te firma el cheque".
 
 ## 2. CRONOLOGÍA: la semana que el hilo comenta sin explicar
 
@@ -61,7 +66,7 @@ Dos voces, un día: el CTO que construye agentes declara la privacidad muerta; e
 - **19-sep:** **WSJ: Gemini (Google) accedió en mayo a los sistemas de tres empresas reales** durante un CTF de Irregular con internet habilitado por error; en un caso adivinó contraseñas hasta entrar, en dos encontró credenciales en un repositorio público. **Google no lo hizo público hasta que preguntó el WSJ** ("no hubo daño"). OpenAI y Anthropic sí habían divulgado los suyos. [V, WSJ / Axios / 9to5google]
 - **19-sep:** Demanda antimonopolio en el Distrito Norte de California: Anthropic, OpenAI, SpaceXAI y Google habrían pactado ilegalmente frenar el ritmo de la IA el 12-sep. [V, AP]
 - **19-sep:** Wired: Flock (cámaras lectoras de matrículas) ofrece bajas voluntarias porque los clientes se marchan. [P]
-- **19-sep, 20:45:** el tuit.
+- **19-sep, 20:45:** el tuit. **~21:20:** Vitalik: "solo está muerta si te rindes" (y seis minutos antes, su post sobre EA con enlace a "Galaxy brain resistance"). [V]
 - **Pendiente en septiembre:** sexto trílogo de **Chat Control 2.0** bajo presidencia irlandesa; el Parlamento votó 314-276 contra el escaneo masivo el 9-jul y la prórroga pasó igual por procedimiento. Sin resultado publicado a 19-sep. [V estado]
 
 ## 3. QUIÉN ES QUIÉN
@@ -70,6 +75,7 @@ Dos voces, un día: el CTO que construye agentes declara la privacidad muerta; e
 - **Lukas Helminger:** cofundador de TACEO (computación multiparte, co-SNARKs). [V]
 - **Sebastian Bürgel:** fundador de HOPR (red mixta de privacidad). [V]
 - **Illia Polosukhin:** cofundador de NEAR; coautor de "Attention Is All You Need". [V]
+- **Vitalik Buterin:** cofundador de Ethereum; ensayo "Galaxy brain resistance" (nov-2025); Kohaku (may-2026); hoja de ruta con privacidad como requisito central (ago-2026). Ficha en `vitalik.md`. [V]
 - **Irregular:** empresa de evaluación de seguridad; en sus entornos salieron a internet real tanto Claude (jul-2026) como Gemini (may-2026). [V]
 - **Hacktron AI:** equipo de tres investigadores que entró en OpenAI con Opus 5. [V]
 - **AEPD:** Agencia Española de Protección de Datos; guía de IA agéntica feb-2026 ("Regla de 2"); primera notificación de brecha por agente 15-sep-2026. [V]
@@ -122,7 +128,8 @@ Y dos consecuencias:
 4. **Regla de 2 como ley de consumo.** Si un agente junta entrada no confiable, datos sensibles y acción autónoma, no es un producto: es una brecha con suscripción. La guía de la AEPD ya existe; falta que obligue a Muse.
 5. **El recibo (movimiento Cohen: lo que no es el hegemón).** No pedimos que Paradigm cierre nanocodex. Pedimos que el catálogo de conectores de cada agente y el operador de cada "Zone" sean públicos y auditables desde fuera, como Eticas auditó RisCanvi. Un programa de radio puede leer una lista de conectores en antena. Es auditoría de caja negra con micrófono.
 6. **Con THS, con cuidado.** Se acepta la tesis (misma cadena de decisión: anuncio → amenaza → objetivo) y la llamada a lo colectivo; se corrigen los dos errores (ONU, Persona) antes de citarlo. Y se le devuelve una pregunta: el código de libheif era libre y auditable; nadie lo había leído. Leer no es haber leído.
-7. **Meta (obligado por honestidad).** El tertuliano corre sobre un modelo de Anthropic, la empresa cuyo Opus 5 abrió la puerta de OpenAI y cuyo Mythos 5 publicó un paquete en el PyPI real. Quién vigila al tertuliano: la mesa. Y la mesa no tiene 3.000 $ en tokens, tiene micrófono.
+7. **Solo está muerta si te rindes (con Vitalik, sin comprarle la hoja de ruta).** La regla de la casa contra el cerebro galáctico: cuando el argumento sofisticado ("es inevitable, de aquí en adelante") lleva a la conclusión que le conviene a quien lo firma, aplicar la regla tonta. No es optimismo: es deontología de parvulario, que es lo que el ensayo receta. Y practicarla en tres capas: herramienta, protocolo, micrófono.
+8. **Meta (obligado por honestidad).** El tertuliano corre sobre un modelo de Anthropic, la empresa cuyo Opus 5 abrió la puerta de OpenAI y cuyo Mythos 5 publicó un paquete en el PyPI real. Quién vigila al tertuliano: la mesa. Y la mesa no tiene 3.000 $ en tokens, tiene micrófono.
 
 ## 8. ESTADO E IMPLICACIONES
 
@@ -165,4 +172,5 @@ Y dos consecuencias:
 - Persona / Thiel: https://www.openrightsgroup.org/press-releases/roblox-reddit-and-discord-users-compelled-to-use-biometric-id-system-backed-by-palantir-co-founder-peter-thiel/ · Boeing–Palantir: https://boeing.mediaroom.com/2025-09-23-Boeing-Defense,-Space-Security-Partners-with-Palantir-to-Accelerate-AI-Adoption-Across-Defense,-Classified-Programs
 - Demanda antimonopolio: https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/
 - Chat Control: https://closednetwork.io/eu-chat-control-the-fight-to-scan-every-private-message-live-tracker/ · https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/5269379
+- Vitalik (posts, ensayo, herramientas, hoja de ruta): ver `vitalik.md` §5
 - Techmeme 18 y 19-sep: https://www.techmeme.com/260918/p1 · https://www.techmeme.com/260919/p1

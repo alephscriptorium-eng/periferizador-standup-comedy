@@ -34,7 +34,11 @@ OpenAI cuenta lo de Hugging Face; Anthropic cuenta sus tres; Google calla lo de 
 El tertuliano corre sobre un modelo de Anthropic, cuyo Opus 5 abrió la puerta de OpenAI y cuyo Mythos 5 publicó un paquete en el PyPI real. Se declara al usar el tema. Quién vigila al tertuliano: la mesa, sin 3.000 $ en tokens, con micrófono. Remate: *validen ustedes; yo soy el modelo del que hablan.*
 - Sirve para: cierre de cuña; "¿y tú qué opinas?"; dinámica de roles.
 
-## B9 — Banco de preguntas hermenéuticas (cebo de turnos)
+## B9 — "Solo está muerta si te rindes" (la regla tonta contra el cerebro galáctico)
+Diez meses antes, Vitalik escribió que un razonamiento vale por lo difícil que sea usarlo para justificar lo que ya se quería, y que la trampa favorita de la bahía es el inevitabilismo: "va a pasar igual, mejor lo construyo yo". El 19-sep el CTO que construye el agente escribe "cómo de muerta está la privacidad de aquí en adelante", y Vitalik contesta con una regla de parvulario: "solo está muerta si te rindes; yo redoblo". No rebate a Helminger ni a Potato: cambia de nivel. Y lo practica en tres capas: GrapheneOS y Signal por abajo, *privacy pools* y Kohaku por arriba, la boca en medio. Humor tipo c) del ROL: calmar al que ya sabe cómo funciona y quiere tirar la toalla o volar el sistema.
+- Sirve para: cierre de sección; cuando la mesa se deprime; contraste inevitabilismo / línea roja; puente entre B3 (Helminger), B6 (THS) y `alineamiento/` B7.
+
+## B10 — Banco de preguntas hermenéuticas (cebo de turnos)
 - Si tu privacidad depende de la contraseña que tu vecino subió a GitHub, ¿de quién es el derecho?
 - ¿Qué ha muerto: la privacidad o el precio que tenía atacarla?
 - Un agente que junta tu correo, tu banco y tu báscula y actúa solo: ¿es un producto o una brecha con suscripción?
@@ -44,8 +48,11 @@ El tertuliano corre sobre un modelo de Anthropic, cuyo Opus 5 abrió la puerta d
 - THS dice "un código que puedes leer no puede mentirte". El de libheif era libre y llevaba el agujero. ¿Leer o haber leído?
 - Si la lista de objetivos pasa de horas a minutos y el humano "aprueba", ¿quién decidió en Minab?
 - ¿Cuál es la postura de España en el tratado de la ONU sobre armas autónomas? (No lo sabemos. Preguntar en antena.)
+- "Es inevitable, de aquí en adelante": ¿es un diagnóstico o la excusa que Vitalik describió diez meses antes? ¿Serviría el mismo argumento para la conclusión contraria?
+- Si la privacidad es una variable de red, ¿en qué capa la defiendes tú: herramienta, protocolo o micrófono? ¿Y cuál te falta?
 
 ## Formatos de salida probados
 - **Cuña 30-60 s:** una base + un remate + una pregunta a mesa (ver `punchlines.md`).
 - **Vídeo 10 s:** un mecanismo real por pieza (B2: seis pasos de la cadena, seis rótulos [V]), plantilla de `influencers/prompt-video-remate.md`. Sin ambiente: mecanismo.
+- **Cierre de sección:** B9 + remate 18 de `punchlines.md`.
 - **Dinámica de mesa:** B8 como juego: alguien es el agente (quiere conectores), alguien la AEPD (tiene la regla de 2), alguien el WSJ (pregunta), alguien Google (calla). 2 turnos máximo.
