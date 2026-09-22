@@ -5,6 +5,7 @@
 | Bloque | Sección | Duración | Fichero | Estado |
 |---|---|---|---|---|
 | A | **Noticias flash**: un tema por cuña, máx. 1-2 min cada una, con mecanismo y etiqueta | n × 1-2 min | `01_FLASH.md` | candidatos listados; falta elegir cuáles y cuántos |
+| A' | **Sección de Martín**: 60 s antes del flash (Jung, la segunda voz, el pudor) y 60 s después (Save yourself / No te salves, dualismo) | 2 × 60 s | `03_SECCION_MARTIN.md` | redactada; fact-check hecho (Jung [V], "pudor" es glosa [P], "Joseph" [V], Benedetti [V]) |
 | B | **Especial: ¿política o contabilidad?** Un método de investigación filosófica (Barceló 2026) aplicado a la constante capturada, con los impuestos como caso | por definir (propuesta: 8-12 min) | `02_ESPECIAL_POLITICA_O_CONTABILIDAD.md` | método y cuestión propuestos; falta el detalle del autor para ejecutar E1-E5 |
 
 ## Qué necesita la escaleta del autor
