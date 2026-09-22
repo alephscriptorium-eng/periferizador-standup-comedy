@@ -1,92 +1,90 @@
-# Dosier de la sección de Martín — grabación de la búsqueda y encargo para desarrollo
+# Dosier de la sección de Martín — material y encargo (sin lecturas)
 
-> Para el agente que desarrolle la sección. Aquí está todo lo buscado el 22-sep-2026, con lo que quedó verificado, lo que no, y lo que falta. Regla de la casa: lo que no lleve etiqueta no sale por el micro. Pieza redactada en `03_SECCION_MARTIN.md`; método en `INVESTIGACION/FILOSOFICA/investigacion-filosofica/` (Barceló 2026), citar `[NN p.PP]`.
+> Para el agente que desarrolle la sección. Solo material verificado, testimonio del autor y tareas. Las lecturas anteriores de la casa se retiraron el 22-sep-2026 por decisión del autor; el trabajo filosófico va por el método de la skill `INVESTIGACION/FILOSOFICA/investigacion-filosofica/` en las fichas `martin-E1.md`, `martin-E2.md`, `martin-E3.md`. Regla: la tesis no existe antes de E4 [07 p.48].
 
-## 1. Encargo original (texto del autor, 22-sep-2026)
+## 1. Encargo (texto del autor, 22-sep-2026)
 
 > Sección de Martín. Estará en la mesa. Tiene 1 minuto antes y después del flash de las 3 primeras noticias.
-> Quiere saber: a) leyó por no recuerda a Jung hablando de que Nietzsche expuso la segunda voz al público. Y habló de pudor. Localizar esa referencia e intentar tirar del hilo. La captura del concepto y lo que es matemáticas o política habla de esas voces también y los límites de cada una. b) recibo significantes confusos de mi consciente colectivo. En concreto respecto a "Save yourself!" como exclama el cantante de falling reverse en el ultimo single de septiembre de 2026 "Joseph", al final de la letra, última línea. Pero luego benedetti tiene inscrito en la roca común: "No te salves, ni ahora ni nunca". Entonces claro, ligado con lo anterior, soy un jovencito confuso y unos me dicen que me salve y otros que no pues no me queda nada más que ver de ampliar porque seguro que mueven cosas distintas y lo que necesito es tanto salvarme como no.
+> Quiere saber: a) leyó por no recuerda a Jung hablando de que Nietzche expuso la segunda voz al público. Y habló de pudor. Localizar esa referencia e intentar tirar del hilo. La captura del concepto y lo que es matemáticas o política habla de esas voces también y los límites de cada una. b) recibo significantes confusos de mi consciente colectivo. En concreto respecto a "Save yourself!" como exclama el cantante de falling reverse en el ultimo single de septiembre de 2026 "Joseph", al final de la letra, última línea. Pero luego benedetti tiene inscrito en la roca común: "No te salves, ni ahora ni nunca". Entonces claro, ligado con lo anterior, soy un jovencito confuso y unos me dicen que me salve y otros que no pues no me queda nada más que ver de ampliar porque seguro que mueven cosas distintas y lo que necesito es tanto salvarme como no.
 
-Formato: 2 × 60 s, Martín presente en la mesa (puede responder). Restricción de la casa: ideas fuerza, poco texto, humor con rigor (ROL.md).
+Formato: 2 × 60 s, Martín presente y puede responder. Normas del medio: ROL.md (brevedad, etiquetas de evidencia, no afirmar sin contexto de probabilidad).
 
-## 2. Hilo (a): Jung, Nietzsche, la número 2 y el "pudor"
+## 2. Hilo (a): Jung sobre Nietzsche
 
-### 2.1 Referencia localizada [V]
-- **Obra:** C. G. Jung (con Aniela Jaffé), *Recuerdos, sueños, pensamientos* (*Erinnerungen, Träume, Gedanken*, 1962). Traducción castellana Seix Barral (1964 y reediciones). Inglés: *Memories, Dreams, Reflections*, cap. "Student Years".
-- **Lugar:** capítulo de los años de estudiante, subsección IV de la traducción, **pp. 129-130** (paginación de la edición Seix Barral tal como aparece en el PDF consultado). Contexto inmediato: pp. 128-129, el "miedo secreto" a parecerse a Nietzsche.
-- **Texto (verbatim, trad. Seix Barral):**
-  > "Zaratustra era el Fausto de Nietzsche, y la número 2 era mi Zaratustra, era —esto me resultó claro— morboso. ¿También la número 2 era anormal? [...] Nietzsche había descubierto tarde a su número 2, transcurrida ya la mitad de su vida, mientras que yo conocía mi número 2 ya desde mi primera juventud. Nietzsche habló ingenua y descuidadamente de este Arrheton, que no se debe nombrar, como si todo esto fuese normal. Sin embargo, yo había visto muy pronto que con ello se adquieren experiencias muy malas. [...] Esto fue pues, pensaba yo, su morboso error: resuelta e insospechadamente había mostrado la número 2 a un mundo en el que nada se sabía ni se comprendía de tales cosas. Estaba dominado por la infantil esperanza de encontrar hombres que compartiesen sus éxtasis y comprendieran la «transmutación de todos los valores». Pero sólo halló filisteos de la cultura [...] De ahí lo ampuloso de su lenguaje, lo recargado de sus metáforas, la ditirámbica exaltación que inútilmente intentaba hacer inteligible este mundo" (pp. 129-130).
-  > Antes (p. 128-129): "se trataba de un miedo secreto a que quizás yo era semejante a él, por lo menos en lo referente al «misterio» que le aislaba en su ambiente. ¿Quizás, quién sabe, había tenido una experiencia interior o ideas de las que quería hablar y desgraciadamente no era comprendido por nadie?"
-  > Y sobre la propia número 2 (p. 115): "esto último era realmente un gran secreto que ni siquiera a mi padre podía o debía revelar".
-- **Inglés (Vintage, "Student Years") [P página]:** "Nietzsche had spoken naively and incautiously about this arrheton, this thing not to be named, as though it were quite in order. But I had noticed in time that this only leads to trouble. [...] he fearlessly and unsuspectingly let his No. 2 loose upon a world that knew and understood nothing about such things."
+### 2.1 Referencia [V]
+- C. G. Jung (con Aniela Jaffé), *Recuerdos, sueños, pensamientos*, trad. Seix Barral, capítulo de los años de estudiante, subsección IV, **pp. 129-130** (paginación del PDF de la edición consultada). Inglés: *Memories, Dreams, Reflections*, "Student Years".
+- Verbatim (pp. 129-130):
+  > "Zaratustra era el Fausto de Nietzsche, y la número 2 era mi Zaratustra, era —esto me resultó claro— morboso. ¿También la número 2 era anormal? [...] Nietzsche había descubierto tarde a su número 2, transcurrida ya la mitad de su vida, mientras que yo conocía mi número 2 ya desde mi primera juventud. Nietzsche habló ingenua y descuidadamente de este Arrheton, que no se debe nombrar, como si todo esto fuese normal. Sin embargo, yo había visto muy pronto que con ello se adquieren experiencias muy malas. [...] Esto fue pues, pensaba yo, su morboso error: resuelta e insospechadamente había mostrado la número 2 a un mundo en el que nada se sabía ni se comprendía de tales cosas. Estaba dominado por la infantil esperanza de encontrar hombres que compartiesen sus éxtasis y comprendieran la «transmutación de todos los valores». Pero sólo halló filisteos de la cultura [...] De ahí lo ampuloso de su lenguaje, lo recargado de sus metáforas, la ditirámbica exaltación que inútilmente intentaba hacer inteligible este mundo".
+  > Antes (pp. 128-129): "se trataba de un miedo secreto a que quizás yo era semejante a él, por lo menos en lo referente al «misterio» que le aislaba en su ambiente."
+  > Sobre su propia número 2 (p. 115): "esto último era realmente un gran secreto que ni siquiera a mi padre podía o debía revelar".
+- Inglés (Vintage) [P página]: "Nietzsche had spoken naively and incautiously about this arrheton, this thing not to be named, as though it were quite in order. [...] he fearlessly and unsuspectingly let his No. 2 loose upon a world that knew and understood nothing about such things."
 
-### 2.2 "Pudor": no es literal [P como glosa]
-- Búsqueda de la cadena "pudor" sobre el texto completo de la traducción: **cero apariciones**. Tampoco "recato". Lo que Jung usa: "Arrheton, que no se debe nombrar", "ingenua y descuidadamente", "lo indecible", "secreto", "misterio".
-- Alemán original: el término de Jung para la actitud ante la número 2 suele ser *Scheu* (temor reverente); no verificado en esta sesión sobre el original. **Tarea abierta.**
-- Cómo decirlo en antena: "lo que Jung llama lo que no se debe nombrar y Martín llama pudor". Correcto y honesto.
+### 2.2 "Pudor" [P como glosa]
+- Cadena "pudor" sobre el texto completo de la traducción: cero apariciones. Tampoco "recato". Términos de Jung: "Arrheton, que no se debe nombrar", "ingenua y descuidadamente", "lo indecible", "secreto", "misterio".
+- Alemán original: no verificado (candidato: *Scheu*). Tarea.
 
-### 2.3 Lo que NO se ha comprobado (tareas para el desarrollo)
-- Seminario de Jung sobre *Zaratustra* (1934-39, ed. Jarrett; trad. Trotta *El Zaratustra de Nietzsche*): probable que haya pasajes sobre Nietzsche "sin vergüenza" o "indecente" al exponer lo íntimo. Búsqueda web sin resultado; hay que ir al texto (Internet Archive tiene el abreviado).
-- Paginación de la edición inglesa Vintage (¿pp. 102-103?) y de la Seix Barral en papel (el PDF conserva la numeración, pero conviene cotejar con el libro).
-- Artículo académico útil localizado, sin leer: *Estudios Nietzsche* 20 (2020), pp. 201-225 (Dialnet), sobre Jung y Nietzsche.
+### 2.3 Tareas abiertas del hilo (a)
+- Seminario de Jung sobre *Zaratustra* (1934-39, ed. Jarrett; trad. Trotta): buscar pasajes sobre exponer lo íntimo. No consultado.
+- *Estudios Nietzsche* 20 (2020), pp. 201-225 (Dialnet): localizado, no leído.
+- Paginación en papel (Seix Barral) y en Vintage.
+- Cómo une Martín este hilo con "la captura del concepto" y "matemáticas o política": no desarrollado; entra como material de E0 (integrarse a una discusión ya existente [09 p.53]) si el autor lo pide.
 
-### 2.4 El hilo tirado (contenido, [H] con contexto de probabilidad)
-| Pieza | Voz número 1 | Voz número 2 | Límite |
-|---|---|---|---|
-| Garzón, "es contabilidad, es irrefutable" | Sí: identidad sectorial, comunicable, sin sujeto | Callada: el reparto (interés, acreedor) | La voz 1 se captura cuando se le hace decir el reparto |
-| Milei, "los impuestos son un robo con una pistola en la cabeza"; "zurdos, CIAO!" | No | Sí, soltada a un mundo que no la comparte: lenguaje ampuloso (Jung, p. 130) | La voz 2 sin pudor produce filisteos alrededor |
-| Barceló: "razones que no sean subjetivas, sino que podamos comunicar y compartir" [03 p.9] | Define la voz 1 como criterio de investigación objetiva | — | La política empieza donde entra el sujeto |
+## 3. Hilo (b): "Save yourself" / "No te salves"
 
-Tesis de trabajo (no antes de E4 [07 p.48]): "matemáticas" = lo que la voz 1 puede decir sola; "política" = lo que exige nombrar al sujeto; el pudor = declarar desde qué voz se habla, no callar la segunda. Enlaza con la cuestión del especial (`02_ESPECIAL_POLITICA_O_CONTABILIDAD.md` §3, opciones a-d).
+### 3.1 "Joseph" (Falling in Reverse feat. Corey Taylor y Serj Tankian) [V salvo donde se indica]
+- Publicado el 14-sep-2026 (Epitaph). Escrita por Ronnie Radke, Daniel Laskiewicz, Jason Richardson y Luke Holland; producida por Radke y Tyler Smyth. Vídeo dirigido por Jensen Noen (Blesscode Entertainment; fotografía Powell Robinson). Primera grabación conjunta de Taylor y Tankian. "Joseph" = segundo nombre de Radke; pareja de "Ronald" (2024).
+- Versos literales (para análisis; letra completa en las fuentes de §5):
+  - Apertura: "They say we're all going to hell for eternity / While they drop their bombs on us from their war machines / Are you ready to die? Are you ready to bleed for me?"
+  - Estribillo: "I don't wanna go to heaven, I don't wanna see the light / Welcome to the end of the road, you fucking degenerate pieces of shit / Fuck the world with a loaded gun / Shots ring out, everybody better duck"
+  - Tankian: "War, pride / Blood was spilled, genocide / Hope all gone / No matter what, it is not enough for them"
+  - Taylor: "We're bombing schools just to build a prison / Shoot to kill in a crowded lot"
+  - Puente: "Repeat the cycle, bless the martyr / Love thy neighbor, kill your father / Repeat the cycle, kill your idols / Love thy neighbor, repeat the cycle now"
+  - Outro: "I have risen from the depths of despair / And here to take you all to fucking hell / Save yourself"
+- **Outro: confirmado por el autor con el vídeo delante [V testimonio directo].** Reparto de fuentes escritas: lo traen LyricsTranslate, letras.com, Cifra Club, Lyrofy ("bring you all"); no lo traen Loudwire (letra "via YouTube"), Shazam (letra licenciada), Lyricsfa, Looviq ni las 12 sincronizaciones de usuarios de LRCLIB (última marca [03:18.58], "Love thy neighbor"). Las hojas de letra oficiales están incompletas. Pendiente: "take"/"bring"; quién lo canta.
+- **Contexto histórico de la canción (qué mata al que grita "save yourself"):**
+  - En la letra [V]: bombas lanzadas por "they" "from their war machines" mientras dicen que "we're all going to hell"; "genocide" (Tankian: "War, pride / Blood was spilled, genocide / Hope all gone / No matter what, it is not enough for them"); "We're bombing schools just to build a prison / Shoot to kill in a crowded lot" (Taylor); el ciclo: "bless the martyr / love thy neighbor / kill your father / kill your idols / repeat".
+  - En la prensa [P]: Nu Metal Agenda lee las escuelas bombardeadas como referencia a "the ongoing war with Iran" (EE.UU., 2026) y dice que Radke se declara "not a political person"; KNAC y Songfacts: "anti-war", "government corruption, institutional violence, military conflict", "genocide".
+  - Aportado por el autor [A]: Gaza y Oriente Medio como contexto del single. No está en la letra ni en ninguna fuente consultada.
+  - Plausibilidad por biografía [P, sin fuente en esta sesión]: Serj Tankian es armenio y activista contra el genocidio; ha hablado públicamente de Gaza. Para subir a [V]: declaraciones de Radke o Tankian sobre "Joseph" (entrevista Rock Feed, no transcrita; entrevistas de Tankian de 2026, no buscadas).
+- La palabra "Matrix" no aparece en la letra (comprobado en letras.com y Cifra Club). "Genocide" aparece una vez (verso de Tankian).
 
-## 3. Hilo (b): "Save yourself!" vs. "No te salves"
+### 3.2 Vídeo de "Joseph": descripción del autor (22-sep-2026) [V testimonio directo]
+- Radke es Neo, vestido como Neo.
+- Dispara a esqueletos de Matrix; se le echan en masa.
+- "Save yourself" lo dice a cámara mientras intenta frenarlos.
+- Muere sepultado por los bots.
 
-### 3.1 "Joseph", Falling in Reverse feat. Corey Taylor y Serj Tankian [V]
-- Publicación: **14-sep-2026** (Loudwire; Consequence 15-sep; Blabbermouth; KNAC). Tercer tema desde *Popular Monster* (2024). Primera vez de Taylor y Tankian juntos en una grabación; ambos en el vídeo.
-- "Joseph" = segundo nombre de Radke (Ronald Joseph Radke); pareja del single "Ronald" (2024) (Songfacts).
-- Contenido: antibélica; corrupción, violencia institucional, cárcel, tiroteos escolares, genocidio; contraste cielo/martirio vs. bombas y cuerpos (KNAC, Consequence). Taylor: versos rápidos sobre "violencia sistémica y sistema penitenciario"; Tankian: pasaje melódico "de la violencia policial a la guerra y el genocidio" (Songfacts). Verso de Tankian citado por Songfacts: "War, pride / Blood was spilled, genocide / Hope all gone / No matter what, it is not enough for them".
-- Estructura: secciones con el patrón repetido **"Repeat the cycle"** (LyricsTranslate).
-- **Última línea: "Save yourself"**, precedida por "I have risen from the depths of despair / And here to take you all to fucking hell" (LyricsTranslate; letra completa también en Loudwire). Verificado en una fuente con letra íntegra; Loudwire aloja la letra pero el extractor no reprodujo el cierre. **Tarea:** cotejar con el audio o con Genius antes de emitir.
-- Quién canta la última línea: no verificado (presumiblemente Radke). **Tarea.**
+Prensa (sin ver el vídeo) [V]: accidente de avión; Radke en moto disparando; pelea en ascensor con fragmento de "Game Over" (2013); montaña de huesos que crece con esqueletos; Taylor con máscara de Slipknot en batalla simulada con Radke; Tankian en el pasaje melódico; los tres cantando juntos. Comentario de usuario en Lambgoat: "masked mercenaries". Saga previa [V Wikipedia]: "Watch the World Burn" (Radke como supervillano incendia el planeta) → "Ronald" (despierta en una ambulancia, ataca a paramédicos "wearing the same suit as in the previous video", huye de demonios y de un S.W.A.T., Tech N9ne como Dios lo manda al infierno, pelea con el Diablo/Alex Terrible, sin vencedor conocido).
 
-### 3.2 Benedetti, "No te salves" [V]
+### 3.3 Benedetti, "No te salves" [V]
 - *Poemas de otros* (1974). Texto en Ciudad Seva, PoeMAS (UNED), Cultura Genial.
-- Verso exacto: "no te salves ahora / ni nunca / no te salves". La frase de Martín ("ni ahora ni nunca") es cita de memoria, correcta en sentido.
-- Definición interna de "salvarse" (el poema la da): "no te quedes inmóvil al borde del camino / no congeles el júbilo / no quieras con desgana [...] no te llenes de calma / no reserves del mundo sólo un rincón tranquilo".
-- Cierre: "y te salvas / entonces / no te quedes conmigo".
-- "Inscrito en la roca común": imagen de Martín; no hay lugar físico conocido. Si se usa, es metáfora del acervo colectivo.
+- Verso exacto: "no te salves ahora / ni nunca / no te salves". Cita de Martín ("ni ahora ni nunca"): de memoria, correcta en sentido.
+- Lista del poema: "no te quedes inmóvil al borde del camino / no congeles el júbilo / no quieras con desgana / no te salves ahora ni nunca / no te salves / no te llenes de calma / no reserves del mundo sólo un rincón tranquilo / no dejes caer los párpados pesados como juicios / no te quedes sin labios / no te duermas sin sueño / no te pienses sin sangre / no te juzgues sin tiempo".
+- Cierre: "pero si pese a todo no puedes evitarlo / y congelas el júbilo / y quieres con desgana / y te salvas ahora / y te llenas de calma / y reservas del mundo sólo un rincón tranquilo / [...] / y te quedas inmóvil al borde del camino / y te salvas / entonces / no te quedes conmigo".
+- "Inscrito en la roca común": expresión de Martín, no un lugar.
 
-### 3.3 Método aplicado (etapas de la skill, citar al desarrollar)
-| Movimiento | Corpus | Uso |
-|---|---|---|
-| "¿Debo salvarme?" es pregunta sí/no; convertir en "¿cuál de los x?": salvarse ¿de qué? | [12 p.85-86] | E1 |
-| Palabras ≠ conceptos: una palabra, dos conceptos | [11 p.81] | E2 |
-| Enunciados ejemplares: "Sálvate del ciclo" (Radke) / "No te salves del mundo" (Benedetti); cinco criterios | [10 p.69-70] | E2 |
-| Empate entre dos intuiciones fuertes → menú de cuatro salidas | [17 p.139] | E5 |
-| Dualismo de propiedades (salvarse-1 / salvarse-2) con sus dos retos: no ad hoc (otras manifestaciones: "sálvese quien pueda" / "salva tu alma") y explicar la unidad (te salvas del ciclo para no tener que salvarte del mundo) | [17 p.141-143] | E5 |
-| Alternativa a evaluar: gradualismo (salvarse en parte) o dialeteísmo (aceptar la contradicción como rasgo de la transición, "estados de transición") | [17 p.140-141] | E5, descartar con razón |
+## 4. Estado del trabajo filosófico
+- `martin-E1.md`: cuestión en forma "¿cuál de los x?", hipótesis en competencia, criterios; puerta G1.
+- `martin-E2.md`: análisis del concepto "salvarse" (enunciado ejemplar, variaciones, hipótesis de dominio, contraejemplos, condiciones); puerta G2.
+- `martin-E3.md`: seis tipos de relación, cuatro regiones, razones/consecuencias por hipótesis, candidatas vivas sin elegir; puerta G3.
+- No hay E4 (argumento) ni E5 (tercera opción) ni tesis. La pieza de antena (`03_SECCION_MARTIN.md`) solo cita y pregunta.
 
-Salida elegida en la pieza: dualismo. Justificación: las razones a favor de cada imperativo son distintas (no "las mismas o similares" como pide el dialeteísmo [17 p.140-141]); el gradualismo no explica que Benedetti ponga condición de ruptura ("no te quedes conmigo"). **El agente que desarrolle debe pasar G5 en turno de Crítico.**
-
-## 4. Lo que falta para dar la sección por cerrada
-1. Cotejar "Save yourself" como última línea con audio/Genius y quién la canta.
-2. Buscar en el seminario de Jung sobre *Zaratustra* el pasaje sobre exponer lo íntimo (vergüenza/indecencia), para respaldar mejor el "pudor" de Martín; si no existe, mantener como glosa [P].
-3. Verificar *Scheu* en el original alemán del pasaje de RSP.
-4. Página de la edición inglesa Vintage.
-5. Pasar G2 y G5 en turno de Crítico sobre la lectura de §3.3.
-6. Decidir con Martín si responde en antena (dinámica: la Yaya le pregunta "¿de qué?" y él contesta) o si la pieza es monólogo.
-
-## 5. Fuentes consultadas (22-sep-2026)
-- PDF de la traducción Seix Barral de *Recuerdos, sueños, pensamientos* (copia en línea, psicologiaen.wordpress.com); texto extraído con pdftotext y consultado por página; no se versiona (derechos).
-- carljungdepthpsychologysite.blog, "Carl Jung's Student Years" (fragmentos en inglés) — https://carljungdepthpsychologysite.blog/2020/06/03/year-2/
-- Reflexiones Marginales (2022), "La relación entre Nietzsche y Zaratustra: una aproximación desde la psicología profunda de C.G. Jung" — https://reflexionesmarginales.com/blog/2022/08/01/la-relacion-entre-nietzsche-y-zaratustra-una-aproximacion-desde-la-psicologia-profunda-de-c-g-jung/
-- Jung, *El Zaratustra de Nietzsche*, Trotta (ISBN 978-84-9879-757-2), sin consultar — https://www.trotta.es/libros/el-zaratustra-de-nietzsche/9788498797572/
-- *Estudios Nietzsche* 20 (2020), pp. 201-225, sin leer — https://dialnet.unirioja.es/descarga/articulo/8999092.pdf
+## 5. Fuentes
+- PDF de *Recuerdos, sueños, pensamientos* (Seix Barral), copia en psicologiaen.wordpress.com; consultado por página; no se versiona.
+- carljungdepthpsychologysite.blog, "Student Years" — https://carljungdepthpsychologysite.blog/2020/06/03/year-2/
+- Reflexiones Marginales (2022) — https://reflexionesmarginales.com/blog/2022/08/01/la-relacion-entre-nietzsche-y-zaratustra-una-aproximacion-desde-la-psicologia-profunda-de-c-g-jung/
+- Jung, *El Zaratustra de Nietzsche*, Trotta, sin consultar — https://www.trotta.es/libros/el-zaratustra-de-nietzsche/9788498797572/
+- *Estudios Nietzsche* 20 (2020), sin leer — https://dialnet.unirioja.es/descarga/articulo/8999092.pdf
 - Loudwire, 14-sep-2026 — https://loudwire.com/falling-in-reverse-joseph-corey-taylor-serj-tankian-lyrics/
 - Consequence, 15-sep-2026 — https://consequence.net/2026/09/falling-in-reverse-corey-taylor-serj-tankian-song-joseph/
-- Blabbermouth — https://blabbermouth.net/news/falling-in-reverse-recruits-corey-taylor-and-serj-tankian-for-new-single-joseph
-- KNAC — https://www.knac.com/news/news/fallinginreverse-newsingle-joseph/
-- Songfacts — https://www.songfacts.com/facts/falling-in-reverse/joseph
-- LyricsTranslate — https://lyricstranslate.com/en/falling-reverse-joseph-lyrics
-- Apple Music (single) — https://music.apple.com/us/album/joseph-single/6797421553
-- Benedetti, "No te salves": Ciudad Seva — https://ciudadseva.com/texto/no-te-salves/ ; PoeMAS UNED — https://poemas.uned.es/poema/no-te-salves-mario-benedetti/ ; Cultura Genial — https://www.culturagenial.com/es/no-te-salves-de-mario-benedetti/
+- Songfacts — https://www.songfacts.com/facts/falling-in-reverse/joseph ; "Ronald" — https://www.songfacts.com/facts/falling-in-reverse/ronald
+- Rock Documented (créditos del vídeo) — https://rockdocumented.com/2026/09/14/falling-in-reverse-release-joseph-music-video/
+- Nu Metal Agenda — https://numetalagenda.com/falling-in-reverse-summon-corey-taylor-and-serj-tankian-for-joseph/
+- StayFree Radio (reseña) — https://www.stayfreeradioip.com/post/falling-in-reverse-joseph-meaning-and-review
+- Lambgoat (noticia y comentarios) — https://lambgoat.com/news/54833/slipknots-corey-taylor-and-system-of-a-downs-serj-tankian-guest-on-new-falling-in-reverse-song/comments/
+- Wikipedia: "Ronald (song)" — https://en.wikipedia.org/wiki/Ronald_(song) ; "Watch the World Burn" — https://en.wikipedia.org/wiki/Watch_the_World_Burn
+- Letra con outro: LyricsTranslate — https://lyricstranslate.com/en/falling-reverse-joseph-lyrics ; letras.com — https://www.letras.com/falling-in-reverse/jeseph-feat-corey-taylor-e-serj-tankian/ ; Cifra Club — https://www.cifraclub.com/serj-tankian/jeseph-feat-corey-taylor-e-falling-in-reverse/letra/ ; Lyrofy — https://lyrofy.com/joseph-lyrics-falling-in-reverse-serj-tankian/
+- Letra sin outro: Shazam — https://www.shazam.com/song/6797421554/joseph ; Lyricsfa — https://lyricsfa.com/falling-in-reverse-joseph-lyrics/ ; Looviq — https://looviq.com/lyrics/joseph ; LRCLIB — https://lrclib.net/api/search?track_name=Joseph&artist_name=Falling%20In%20Reverse
+- Vídeo oficial (Epitaph) — https://www.youtube.com/watch?v=Tk9TM7-eTmw ; Apple Music — https://music.apple.com/us/album/joseph-single/6797421553
+- Benedetti: Ciudad Seva — https://ciudadseva.com/texto/no-te-salves/ ; PoeMAS UNED — https://poemas.uned.es/poema/no-te-salves-mario-benedetti/
+- Método: `INVESTIGACION/FILOSOFICA/investigacion-filosofica/` (Barceló 2026), corpus 06, 07, 10, 11, 12, 14, 16.
